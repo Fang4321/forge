@@ -121,6 +121,6 @@
     "process": false
   },
   "dependencies": {
-    "elliptic": "^6.5.4"
+    "@noble/curves": "^1.9.4"
   }
 }
