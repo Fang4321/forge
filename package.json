@@ -92,7 +92,6 @@
     "x509"
   ],
   "scripts": {
-    "prepublish": "npm run build",
     "build": "webpack",
     "test-build": "webpack --config webpack-tests.config.js",
     "test": "npm run test-node",
